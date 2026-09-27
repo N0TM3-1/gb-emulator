@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gb-emu.vcxproj" Id="9163ea67-44f6-44d3-8ca7-58112a29885f" />
+</Solution>
